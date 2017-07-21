@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwitchLanguageDemo</string>
+    <string name="hello_world">Hello buddy!Welcome to Android\'s skill share</string>
+
+
+
+    <string name="set_title">SET</string>
+    <string name="app_version">APP VERSION：1.0</string>
+    <string name="switch_language">APP LANGUAGE</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="card_language">Card LANGUAGE</string>
+    <string name="push">Push</string>
+    <string name="logout">Logout</string>
+    <string name="clear_caher">Wipe Cache</string>
+    <string name="about">About</string>
+    <string name="problem">FAQ</string>
+    <string name="couple_back">Suggestions</string>
+    <string name="score">Application to score</string>
+    <string name="login">Login</string>
+    <string name="search">search</string>
+    <string name="main">Main</string>
+    <string name="square">Square</string>
+    <string name="group">Group</string>
+    <string name="information">Information</string>
+    <string name="massage">Massage</string>
+    <string name="search_card">Search Card</string>
+    <string name="Notification">Notification</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="Click_to_open">Click to open</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="cleancache">Clean Cache</string>
+    <string name="scan">Scan</string>
+    <string name="details">Details</string>
+    <string name="refresh">Refresh</string>
+    <string name="done">Done</string>
+    <string name="Initial">Initial</string>
+    <string name="card_color">CardColor</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="colourless">Colourless</string>
+    <string name="multicolor">Multicolor</string>
+    <string name="other">Other</string>
+
+    <string name="cardtype">CardType</string>
+    <string name="artifact">Artifact</string>
+    <string name="creature">Creature</string>
+    <string name="enchantment">Enchantment</string>
+    <string name="instant">Instant</string>
+    <string name="land">Land</string>
+    <string name="sorcery">Sorcery</string>
+    <string name="cardclass">CradClass</string>
+    <string name="consumeresource">ConsumeResource</string>
+    <string name="aggressivity">Aggressivity</string>
+    <string name="toughness">Toughness</string>
+    <string name="textseach">TextSeach</string>
+    <string name="mycollect">MyCollect</string>
+    <string name="personaldata">PersonalData</string>
+    <string name="nickname">NickName</string>
+    <string name="sex">Sex</string>
+    <string name="age">Age</string>
+    <string name="birthday">Birthday</string>
+    <string name="constellation">Constellation</string>
+
+    <string name="mail">E-mail</string>
+    <string name="phone">PhoneNumber</string>
+    <string name="realname">RealName</string>
+    <string name="playage">PlayAge</string>
+    <string name="IDnumber">ID Number</string>
+    <string name="address">Address</string>
+    <string name="profession">Profession</string>
+    <string name="alipay">Alipay</string>
+    <string name="WechatID">Wechat ID</string>
+    <string name="finish">Finish</string>
+    <string name="phoneandmail">PhoneNumber/E-mail</string>
+    <string name="password">PassWord</string>
+    <string name="securitycode">SecurityCode</string>
+    <string name="forgetpassword">ForgetPassword</string>
+    <string name="newuser">NewUserSignIn</string>
+    <string name="loginin">Login</string>
+    <string name="signin">SignIn</string>
+    <string name="Setthepassword">Set the password (6-20 Numbers and letters)</string>
+    <string name="confirmpassword">ConfirmPassword</string>
+    <string name="agree">Registration indicates that you agree</string>
+    <string name="useragreement">《User Agreement》</string>
+    <string name="share">Share</string>
+    <string name="collection">Collection</string>
+    <string name="download">Download to my card</string>
+    <string name="introduce">introduce</string>
+    <string name="trend">trend</string>
+    <string name="otherwaylogin">OtherWayLogin</string>
+    <string name="mythicrare">Mythic</string>
+    <string name="rare">Rare</string>
+    <string name="uncommon">Uncommon</string>
+    <string name="common">Common</string>
+    <string name="special">Special</string>
+    <string name="feedback">FeedBack</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#edfafa" >
+
+    <TextView
+        android:id="@+id/clear_cache_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="选择语言"
+        android:textColor="#69dddc"
+        android:textSize="18sp" />
+    <TextView
+        android:id="@+id/formatSize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:textColor="#565c62"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:id="@+id/clear_cache_line_1"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@+id/select_english"
+        android:background="#121212" />
+
+    <TextView
+        android:id="@+id/select_chinese"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/clear_cache_line_1"
+        android:padding="15dp"
+        android:text="中文"
+        android:textColor="#565c62"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/clear_cache_line"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#e82929"
+        android:layout_below="@+id/clear_cache_title"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/select_english"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="英文"
+        android:textColor="#565c62"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/clear_cache_title"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
